@@ -1,0 +1,1 @@
+return Object.assign({}, object, { [key]: value })
